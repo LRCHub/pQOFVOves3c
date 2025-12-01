@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "plastic",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-01T16:04:48.710359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Plastic Boogie",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Plastic_Boogie_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plastic Boogie",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Plastic_Boogie_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plastic Boogie (Live in Asheville '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Plastic_Boogie_(Live_in_Asheville_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/04_Fake_Plastic_Trees_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Plastic",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/06_Black_Plastic_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plastic Bag",
+      "artist": "Drake feat. Future",
+      "has_synced": true,
+      "path": "select/07_Plastic_Bag_Drake_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plastic Bag",
+      "artist": "Drake & Future",
+      "has_synced": true,
+      "path": "select/08_Plastic_Bag_Drake_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (acoustic)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/10_Fake_Plastic_Trees_(acoustic)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (Eves Club)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Fake_Plastic_Trees_(Eves_Club)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (KROQ)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Fake_Plastic_Trees_(KROQ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (MTV Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Fake_Plastic_Trees_(MTV_Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blue Plastic",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/14_Blue_Plastic_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Plastic & Powder",
+      "artist": "Lower Dens",
+      "has_synced": false,
+      "path": "select/15_Plastic_&_Powder_Lower_Dens.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Plastic Doll",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/16_Plastic_Doll_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blue Plastic Bags",
+      "artist": "Malcolm Middleton",
+      "has_synced": false,
+      "path": "select/17_Blue_Plastic_Bags_Malcolm_Middleton.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Plastic",
+      "artist": "Moses Sumney",
+      "has_synced": true,
+      "path": "select/18_Plastic_Moses_Sumney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "plastic smile",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_plastic_smile_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Plastic Tears",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_02_Plastic_Tears_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Plastic",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_03_Plastic_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "plastic smile",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_04_plastic_smile_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Plastic Soul (single mix)",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_05_Plastic_Soul_(single_mix)_Perfume.txt"
+    }
+  ]
+}
